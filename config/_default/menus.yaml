@@ -1,0 +1,9 @@
+leftnav:
+- identifier: d4fe924a-421e-4589-a244-11762f924460
+  name: M1
+  pageRef: /pages/p2
+  weight: 10
+- identifier: 50bb7e76-d9a5-4c2e-895c-4b2692c8b2df
+  name: M2
+  pageRef: /lists/rl-2
+  weight: 20
